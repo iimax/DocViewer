@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SZPDC.FileParser.WordParser">
+    <Position X="1" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAEAAAAAAAAAIBAAAAAAAAAAAAABAIAAAAAA=</HashCode>
+      <FileName>WordParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.106" />
+  </Class>
+  <Class Name="SZPDC.FileParser.ExcelParser">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAEAAAAAAAAAAAAAAAAAAQAAAAABABAAAAAA=</HashCode>
+      <FileName>ExcelParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SZPDC.FileParser.PPTParser">
+    <Position X="4.5" Y="2" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAgAEAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAAA=</HashCode>
+      <FileName>PPTParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SZPDC.FileParser.PDFParser">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAgAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>PDFParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SZPDC.FileParser.SWFParser">
+    <Position X="3.5" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAgAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>SWFParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="SZPDC.FileParser.IParser">
+    <Position X="3.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IParser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
